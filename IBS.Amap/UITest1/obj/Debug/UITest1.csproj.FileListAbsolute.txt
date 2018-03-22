@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\UITest1.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\UITest1.pdb
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\nunit.framework.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\Xamarin.UITest.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\nunit.framework.xml
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\bin\Debug\Xamarin.UITest.xml
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\obj\Debug\UITest1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\obj\Debug\UITest1.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\obj\Debug\UITest1.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UITest1\obj\Debug\UITest1.pdb

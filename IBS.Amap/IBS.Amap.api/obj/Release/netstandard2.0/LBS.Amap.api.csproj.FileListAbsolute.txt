@@ -1,0 +1,18 @@
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\setting.json
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.deps.json
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.pdb
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.dll
+D:\Documents\Visual Studio 2017\Projects\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.pdb
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.deps.json
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.dll
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\bin\Release\netstandard2.0\LBS.Amap.api.pdb
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.csprojResolveAssemblyReference.cache
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.csproj.CoreCompileInputs.cache
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.AssemblyInfoInputs.cache
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.AssemblyInfo.cs
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.dll
+F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Release\netstandard2.0\LBS.Amap.api.pdb
