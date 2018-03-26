@@ -1,9 +1,0 @@
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\b\IBS.Amap.api\Debug\netstandard2.0\setting.json
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\b\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.deps.json
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\b\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.dll
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\b\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.pdb
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\i\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.csproj.CoreCompileInputs.cache
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\i\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.AssemblyInfoInputs.cache
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\i\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.AssemblyInfo.cs
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\i\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.dll
-D:\Documents\Visual Studio 2017\Projects\IBS.Amap\.vs\IBS.Amap\lut\0\i\IBS.Amap.api\Debug\netstandard2.0\IBS.Amap.api.pdb

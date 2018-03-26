@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v2.0": {
       "UnitTestProject1/1.0.0": {
         "dependencies": {
-          "LBS.Amap.api": "1.0.1",
+          "LBS.Amap.api": "1.0.2",
           "MSTest.TestAdapter": "1.2.0",
           "MSTest.TestFramework": "1.2.0",
           "Microsoft.NET.Test.Sdk": "15.5.0"
@@ -1092,7 +1092,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "LBS.Amap.api/1.0.1": {
+      "LBS.Amap.api/1.0.2": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "2.0.0",
           "Microsoft.Extensions.Configuration.Binder": "2.0.0",
@@ -1691,7 +1691,7 @@
       "path": "system.xml.xpath.xmldocument/4.0.1",
       "hashPath": "system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
     },
-    "LBS.Amap.api/1.0.1": {
+    "LBS.Amap.api/1.0.2": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

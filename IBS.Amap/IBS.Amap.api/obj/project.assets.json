@@ -3567,7 +3567,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\LPD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -3576,18 +3577,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj",
+      "projectUniqueName": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj",
       "projectName": "LBS.Amap.api",
-      "projectPath": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\IBS.Amap.api\\obj\\",
+      "projectPath": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj",
+      "packagesPath": "C:\\Users\\LPD\\.nuget\\packages\\",
+      "outputPath": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\IBS.Amap.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\LPD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -3611,23 +3614,23 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
-          "Microsoft.Extensions.Configuration.Json": {
-            "target": "Package",
-            "version": "2.0.0"
-          },
           "Microsoft.Extensions.Configuration": {
             "target": "Package",
-            "version": "2.0.0"
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.Extensions.Configuration.Binder": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[2.0.0, )"
           },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "2.0.1",
+            "version": "[2.0.1, )",
             "autoReferenced": true
-          },
-          "Microsoft.Extensions.Configuration.Binder": {
-            "target": "Package",
-            "version": "2.0.0"
           }
         },
         "imports": [

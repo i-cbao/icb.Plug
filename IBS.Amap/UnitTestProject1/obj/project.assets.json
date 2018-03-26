@@ -1759,7 +1759,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "LBS.Amap.api/1.0.1": {
+      "LBS.Amap.api/1.0.2": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -6082,7 +6082,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "LBS.Amap.api/1.0.1": {
+    "LBS.Amap.api/1.0.2": {
       "type": "project",
       "path": "../IBS.Amap.api/LBS.Amap.api.csproj",
       "msbuildProject": "../IBS.Amap.api/LBS.Amap.api.csproj"
@@ -6090,7 +6090,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
-      "LBS.Amap.api >= 1.0.1",
+      "LBS.Amap.api >= 1.0.2",
       "MSTest.TestAdapter >= 1.2.0",
       "MSTest.TestFramework >= 1.2.0",
       "Microsoft.NET.Test.Sdk >= 15.5.0",
@@ -6098,7 +6098,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\LPD\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -6107,18 +6108,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\UnitTestProject1\\UnitTestProject1.csproj",
+      "projectUniqueName": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\UnitTestProject1\\UnitTestProject1.csproj",
       "projectName": "UnitTestProject1",
-      "projectPath": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\UnitTestProject1\\UnitTestProject1.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\UnitTestProject1\\obj\\",
+      "projectPath": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\UnitTestProject1\\UnitTestProject1.csproj",
+      "packagesPath": "C:\\Users\\LPD\\.nuget\\packages\\",
+      "outputPath": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\UnitTestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\LPD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -6131,8 +6134,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "F:\\i车保_工作\\CoreItem\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj": {
-              "projectPath": "F:\\i车保_工作\\CoreItem\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj"
+            "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj": {
+              "projectPath": "D:\\GPS\\plugin\\icb.Plug\\IBS.Amap\\IBS.Amap.api\\LBS.Amap.api.csproj"
             }
           }
         }
@@ -6146,22 +6149,22 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "MSTest.TestFramework": {
-            "target": "Package",
-            "version": "1.2.0"
-          },
           "MSTest.TestAdapter": {
             "target": "Package",
-            "version": "1.2.0"
+            "version": "[1.2.0, )"
           },
-          "Microsoft.NETCore.App": {
+          "MSTest.TestFramework": {
             "target": "Package",
-            "version": "2.0",
-            "autoReferenced": true
+            "version": "[1.2.0, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "15.5.0"
+            "version": "[15.5.0, )"
+          },
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "[2.0.0, )",
+            "autoReferenced": true
           }
         },
         "imports": [

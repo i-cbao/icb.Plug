@@ -9,13 +9,13 @@
     <description>http://restapi.amap.com/v3/direction/driving   public Api</description>
     <dependencies>
       <group targetFramework=".NETStandard2.0">
-        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Configuration" version="2.0.0" exclude="Build,Analyzers" />
         <dependency id="Microsoft.Extensions.Configuration.Binder" version="2.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.0.0" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.dll" target="lib\netstandard2.0\LBS.Amap.api.dll" />
+    <file src="D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.dll" target="lib\netstandard2.0\LBS.Amap.api.dll" />
   </files>
 </package>

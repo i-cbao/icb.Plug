@@ -17,3 +17,12 @@ F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Am
 F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.AssemblyInfo.cs
 F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.dll
 F:\i车保_工作\CoreItem\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.pdb
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.deps.json
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.pdb
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.csprojResolveAssemblyReference.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.csproj.CoreCompileInputs.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.AssemblyInfoInputs.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.AssemblyInfo.cs
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.pdb

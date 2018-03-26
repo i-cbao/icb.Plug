@@ -15,3 +15,19 @@ D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UnitTestProject1\obj\Release\n
 D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
 D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.dll
 D:\Documents\Visual Studio 2017\Projects\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.pdb
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.deps.json
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.json
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.runtimeconfig.dev.json
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\UnitTestProject1.pdb
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\LBS.Amap.api.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\bin\Release\netcoreapp2.0\LBS.Amap.api.pdb
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.csprojResolveAssemblyReference.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfoInputs.cache
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.AssemblyInfo.cs
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.dll
+D:\GPS\plugin\icb.Plug\IBS.Amap\UnitTestProject1\obj\Release\netcoreapp2.0\UnitTestProject1.pdb
