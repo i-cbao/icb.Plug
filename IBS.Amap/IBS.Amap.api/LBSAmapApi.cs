@@ -67,7 +67,7 @@ namespace LBS.Amap.api
             return null;
         }
 
-        public static AmapLbsDto LbsLocation(string key, LBS lbs)
+        public static AmapDto LbsLocation(string key, Lbs lbs)
         {
             if (null == lbs || null == lbs.Cells || 0 == lbs.Cells.Count) return null;
 
@@ -91,11 +91,11 @@ namespace LBS.Amap.api
             }
 
             var strResponse = HttpHelper.HttpGet(url, arg);
-            AmapLbsDto dto = JsonConvert.DeserializeObject<AmapLbsDto>(strResponse);
+            AmapDto dto = JsonConvert.DeserializeObject<AmapDto>(strResponse);
             return dto;
         }
 
-        public static AmapLbsDto WiFiLocation(string key, List<WiFi> wifi, LBS lbs)
+        public static AmapDto WiFiLocation(string key, List<WiFi> wifi, Lbs lbs)
         {
             string url = @"http://apilocate.amap.com/position";
 
@@ -113,7 +113,7 @@ namespace LBS.Amap.api
             }
 
             var strResponse = HttpHelper.HttpGet(url, arg);
-            AmapLbsDto dto = JsonConvert.DeserializeObject<AmapLbsDto>(strResponse);
+            AmapDto dto = JsonConvert.DeserializeObject<AmapDto>(strResponse);
             if (null != dto && "1" == dto.Status && null != dto.Result && dto.Result.Type > 0)
             {
                 return dto;

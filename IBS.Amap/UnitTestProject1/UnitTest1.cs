@@ -45,10 +45,10 @@ namespace UnitTestProject1
         [TestMethod]
         public void Test2()
         {
-            var location = LBSAmapApi.Address("319af3b93403bad8cd533d823b26b2a8", 105.08135,
+            var location = LBSAmapApi.Address("385f64e84c76505005f56d06f0eb1b6b", 105.08135,
             30.063167);
 
-            var lbs = LBSAmapApi.LbsLocation("8436f3ee0d0c5474dff770300b661c75", new LBS.Amap.api.LBS
+            var lbs = LBSAmapApi.LbsLocation("f7b6878ef92c6877eded2dd617d1f893", new Lbs
             {
                 MNC = 0,
                 MCC = 460,
@@ -59,7 +59,7 @@ namespace UnitTestProject1
 }
             });
 
-            var wifi = LBSAmapApi.WiFiLocation("8436f3ee0d0c5474dff770300b661c75", new System.Collections.Generic.List<WiFi> {
+            var wifi = LBSAmapApi.WiFiLocation("f7b6878ef92c6877eded2dd617d1f893", new System.Collections.Generic.List<WiFi> {
                 new  WiFi{
             Mac= "FCD733C20020",
             Rssi= 53
@@ -92,7 +92,7 @@ namespace UnitTestProject1
             Mac="FC0A81E6A023",
             Rssi= 86
         }
-}, new LBS.Amap.api.LBS
+}, new Lbs
 {
     MNC = 0,
     MCC = 460,
