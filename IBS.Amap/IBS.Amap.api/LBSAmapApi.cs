@@ -92,7 +92,12 @@ namespace LBS.Amap.api
 
             var strResponse = HttpHelper.HttpGet(url, arg);
             AmapDto dto = JsonConvert.DeserializeObject<AmapDto>(strResponse);
-            return dto;
+            if (null != dto && "1" == dto.Status && null != dto.Result && dto.Result.Type > 0)
+            {
+                return dto;
+            }
+
+            return null;
         }
 
         public static AmapDto WiFiLocation(string key, List<WiFi> wifi, Lbs lbs)
