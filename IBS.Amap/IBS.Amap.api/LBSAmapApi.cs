@@ -14,6 +14,7 @@ namespace LBS.Amap.api
 {
     public class LBSAmapApi
     {
+        string configUrl = "http://restapi.amap.com/v3/direction/driving";
         public Result_DrivingEntity ApiDriving(DrivingEntity drivingData)
         {
             try
@@ -23,7 +24,7 @@ namespace LBS.Amap.api
                 config = ConfigHelper<MyConfig>.Init(config);
                 if (config.Url == null || config.Url == "")
                 {
-                    config.Url = "http://restapi.amap.com/v3/direction/driving";
+                    config.Url = configUrl;
                 }
                 string strResult = HttpHelper.HttpPost(config.Url, resultStr);
                 if (drivingData.output.ToUpper() == "JSON")

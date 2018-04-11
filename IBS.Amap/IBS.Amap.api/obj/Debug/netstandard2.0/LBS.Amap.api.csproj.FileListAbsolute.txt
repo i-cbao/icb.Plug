@@ -1,0 +1,9 @@
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.deps.json
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.dll
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\bin\Debug\netstandard2.0\LBS.Amap.api.pdb
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.csprojResolveAssemblyReference.cache
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.csproj.CoreCompileInputs.cache
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.AssemblyInfoInputs.cache
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.AssemblyInfo.cs
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.dll
+E:\work\Sln\plugins\icb.Plug\IBS.Amap\IBS.Amap.api\obj\Debug\netstandard2.0\LBS.Amap.api.pdb

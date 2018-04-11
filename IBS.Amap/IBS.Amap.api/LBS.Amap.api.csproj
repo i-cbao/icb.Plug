@@ -2,13 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Description>http://restapi.amap.com/v3/direction/driving   public Api</Description>
+    <Description>http://restapi.amap.com/v3/direction/driving   
+public Api
+增加wifi,基站定位逆地址编码。</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>Zwc</Authors>
     <Company>personal</Company>
     <AssemblyVersion>1.0.1.1</AssemblyVersion>
     <FileVersion>1.0.1.1</FileVersion>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
   </PropertyGroup>
 
   <ItemGroup>
